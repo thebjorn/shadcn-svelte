@@ -1,7 +1,7 @@
 <script lang="ts">
 	import File from "lucide-svelte/icons/file";
-	import Home from "lucide-svelte/icons/home";
-	import LineChart from "lucide-svelte/icons/line-chart";
+	import Home from "lucide-svelte/icons/house";
+	import LineChart from "lucide-svelte/icons/chart-line";
 	import ListFilter from "lucide-svelte/icons/list-filter";
 	import Ellipsis from "lucide-svelte/icons/ellipsis";
 	import Package from "lucide-svelte/icons/package";

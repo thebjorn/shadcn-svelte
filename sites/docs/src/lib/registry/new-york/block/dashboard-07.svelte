@@ -1,7 +1,7 @@
 <script lang="ts">
 	import ChevronLeft from "lucide-svelte/icons/chevron-left";
-	import Home from "lucide-svelte/icons/home";
-	import LineChart from "lucide-svelte/icons/line-chart";
+	import Home from "lucide-svelte/icons/house";
+	import LineChart from "lucide-svelte/icons/chart-line";
 	import Package from "lucide-svelte/icons/package";
 	import Package2 from "lucide-svelte/icons/package-2";
 	import PanelLeft from "lucide-svelte/icons/panel-left";
